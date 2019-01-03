@@ -1,0 +1,10 @@
+.dbus/
+Documents/
+.kingsoft/
+.local/
+.pki/
+.presage
+repos/
+.ssh/
+.viminfo
+.vscode/

@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'Consolas','Microsoft YaHei'",
+    "editor.wordWrap": "bounded",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.enableTrash": false
+}

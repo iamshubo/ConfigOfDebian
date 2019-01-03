@@ -1,0 +1,170 @@
+[2019-01-03 13:49:50.519] [sharedprocess] [info] main {"machineId":"02832243036d3c8ed8bae3e6f84808b14a14c1c42b93bc761726fb56f4137fa0"}
+[2019-01-03 13:49:50.686] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:49:51.214] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:49:59.556] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:49:59.628] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:01.448] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:50:01.496] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:50:27.483] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:30.558] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-03 13:50:39.426] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:39.513] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:39.542] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:39.698] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:50:40.608] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:50:40.640] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:50:40.662] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:50:48.322] [sharedprocess] [info] Installing extension: vscode-language-pack-zh-hans
+[2019-01-03 13:50:48.348] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:51:27.181] [sharedprocess] [info] Installing extension: java
+[2019-01-03 13:51:27.204] [sharedprocess] [info] Scanned user extensions: 0
+[2019-01-03 13:54:48.829] [sharedprocess] [info] Downloaded extension: vscode-language-pack-zh-hans /tmp/2d5406db-7319-4e39-ae4b-03bede823b55
+[2019-01-03 13:54:50.339] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.ms-ceintl.vscode-language-pack-zh-hans-1.30.2: ms-ceintl.vscode-language-pack-zh-hans-1.30.2
+[2019-01-03 13:54:50.345] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/ms-ceintl.vscode-language-pack-zh-hans-1.30.2
+[2019-01-03 13:54:50.351] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans-1.30.2
+[2019-01-03 13:54:50.398] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2019-01-03 13:54:50.455] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:54:50.867] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:54:50.893] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:54:51.202] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 13:55:28.257] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:55:37.178] [sharedprocess] [error] Failed to install extension: redhat.java 
+[2019-01-03 13:55:37.438] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 13:55:37.691] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:00:28.401] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:00:59.836] [sharedprocess] [info] Installing extension: java
+[2019-01-03 14:00:59.869] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:01:16.797] [sharedprocess] [info] Installing extension: vscode-java-pack
+[2019-01-03 14:01:16.834] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:01:42.143] [sharedprocess] [info] main {"machineId":"02832243036d3c8ed8bae3e6f84808b14a14c1c42b93bc761726fb56f4137fa0"}
+[2019-01-03 14:01:42.310] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:01:42.575] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:01:44.182] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:01:44.588] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:01:46.821] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:20.059] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:20.085] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:20.141] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:20.183] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:20.863] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:02:20.883] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:02:20.906] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:02:22.166] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-03 14:02:22.174] [sharedprocess] [info] Skipping directory f47099349c4a557e383082537a9c555f.zh-cn. Language pack still in use.
+[2019-01-03 14:02:28.914] [sharedprocess] [info] Installing extension: java
+[2019-01-03 14:02:28.956] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:33.771] [sharedprocess] [info] Installing extension: vscode-java-pack
+[2019-01-03 14:02:33.819] [sharedprocess] [info] Scanned user extensions: 1
+[2019-01-03 14:02:36.769] [sharedprocess] [info] Downloaded extension: vscode-java-pack /tmp/bc575935-1d8c-4903-af84-2d6818bb78d7
+[2019-01-03 14:03:10.299] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.vscjava.vscode-java-pack-0.5.0: vscjava.vscode-java-pack-0.5.0
+[2019-01-03 14:03:10.300] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/vscjava.vscode-java-pack-0.5.0
+[2019-01-03 14:03:10.311] [sharedprocess] [info] Installation completed. vscjava.vscode-java-pack-0.5.0
+[2019-01-03 14:03:10.574] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-03 14:03:10.978] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:11.240] [sharedprocess] [info] Installing extension: java
+[2019-01-03 14:03:11.247] [sharedprocess] [info] Installing extension: vscode-java-debug
+[2019-01-03 14:03:11.250] [sharedprocess] [info] Installing extension: vscode-maven
+[2019-01-03 14:03:11.253] [sharedprocess] [info] Installing extension: vscode-java-test
+[2019-01-03 14:03:11.257] [sharedprocess] [info] Installing extension: vscode-java-dependency
+[2019-01-03 14:03:11.280] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-03 14:03:11.287] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-03 14:03:11.293] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-03 14:03:11.301] [sharedprocess] [info] Scanned user extensions: 2
+[2019-01-03 14:03:12.508] [sharedprocess] [info] Downloaded extension: vscode-maven /tmp/a0fe596c-b267-400e-82d6-e66df0e55809
+[2019-01-03 14:03:13.903] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.vscjava.vscode-maven-0.12.1: vscjava.vscode-maven-0.12.1
+[2019-01-03 14:03:13.919] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/vscjava.vscode-maven-0.12.1
+[2019-01-03 14:03:13.929] [sharedprocess] [info] Installation completed. vscjava.vscode-maven-0.12.1
+[2019-01-03 14:03:14.073] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2019-01-03 14:03:14.420] [sharedprocess] [info] Scanned user extensions: 3
+[2019-01-03 14:03:14.710] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:18.021] [sharedprocess] [info] Downloaded extension: vscode-java-dependency /tmp/3f87abdf-1006-4e34-8acd-eec7abfa99c8
+[2019-01-03 14:03:18.174] [sharedprocess] [info] Downloaded extension: java /tmp/c7f3b07b-0818-4f7e-afe9-ac9edabbbe94
+[2019-01-03 14:03:18.219] [sharedprocess] [info] Downloaded extension: vscode-java-debug /tmp/5f05f48e-8484-4e44-a986-217329bd258c
+[2019-01-03 14:03:21.456] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.vscjava.vscode-java-dependency-0.3.0: vscjava.vscode-java-dependency-0.3.0
+[2019-01-03 14:03:21.459] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/vscjava.vscode-java-dependency-0.3.0
+[2019-01-03 14:03:21.499] [sharedprocess] [info] Installation completed. vscjava.vscode-java-dependency-0.3.0
+[2019-01-03 14:03:21.838] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-03 14:03:22.090] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:22.375] [sharedprocess] [info] Installing extension: java
+[2019-01-03 14:03:24.836] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-03 14:03:24.853] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-03 14:03:24.872] [sharedprocess] [info] Scanned user extensions: 4
+[2019-01-03 14:03:25.477] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:25.550] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:25.615] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:30.934] [sharedprocess] [info] Downloaded extension: vscode-java-test /tmp/fcc5956a-7b8f-439a-b0da-10c4abbcbf8b
+[2019-01-03 14:03:32.439] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.vscjava.vscode-java-test-0.13.0: vscjava.vscode-java-test-0.13.0
+[2019-01-03 14:03:32.443] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/vscjava.vscode-java-test-0.13.0
+[2019-01-03 14:03:32.461] [sharedprocess] [info] Installation completed. vscjava.vscode-java-test-0.13.0
+[2019-01-03 14:03:32.622] [sharedprocess] [info] Scanned user extensions: 5
+[2019-01-03 14:03:32.953] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:33.198] [sharedprocess] [info] Installing extension: vscode-java-debug
+[2019-01-03 14:03:39.886] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.redhat.java-0.36.0: redhat.java-0.36.0
+[2019-01-03 14:03:39.909] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/redhat.java-0.36.0
+[2019-01-03 14:03:40.055] [sharedprocess] [info] Installation completed. redhat.java-0.36.0
+[2019-01-03 14:03:40.627] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2019-01-03 14:03:40.630] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-dependency
+[2019-01-03 14:03:41.717] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-03 14:03:41.735] [sharedprocess] [info] Scanned user extensions: 6
+[2019-01-03 14:03:42.191] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:42.218] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:46.996] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.vscjava.vscode-java-debug-0.16.0: vscjava.vscode-java-debug-0.16.0
+[2019-01-03 14:03:46.997] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/vscjava.vscode-java-debug-0.16.0
+[2019-01-03 14:03:47.009] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug-0.16.0
+[2019-01-03 14:03:47.124] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:03:47.291] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:47.291] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2019-01-03 14:03:47.295] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-test
+[2019-01-03 14:03:47.298] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-pack
+[2019-01-03 14:03:47.851] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:03:47.868] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:03:47.885] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:03:48.223] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:48.234] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:03:48.245] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:06:46.916] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:07:33.239] [sharedprocess] [info] Installing extension: gitlens
+[2019-01-03 14:07:33.306] [sharedprocess] [info] Scanned user extensions: 7
+[2019-01-03 14:11:34.739] [sharedprocess] [info] Downloaded extension: gitlens /tmp/8f14c83d-bd06-40e1-bd06-065dc3b21497
+[2019-01-03 14:11:38.217] [sharedprocess] [info] Extracted extension to /home/zhangshubo97/.vscode/extensions/.eamodio.gitlens-9.3.0: eamodio.gitlens-9.3.0
+[2019-01-03 14:11:38.218] [sharedprocess] [info] Renamed to /home/zhangshubo97/.vscode/extensions/eamodio.gitlens-9.3.0
+[2019-01-03 14:11:38.249] [sharedprocess] [info] Installation completed. eamodio.gitlens-9.3.0
+[2019-01-03 14:11:38.321] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-01-03 14:11:38.553] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:11:38.713] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:11:46.994] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:16:47.102] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:20:40.899] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:20:41.351] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:20:43.582] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:14.602] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:14.693] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:14.771] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:14.898] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:15.534] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:15.553] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:15.576] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:25.371] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:25.551] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:29.862] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:30.019] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:32.418] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:32.523] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:32.525] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:32.567] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:21:33.157] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:33.173] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:33.189] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:21:33.211] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:22:08.098] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:08.251] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:08.355] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:08.651] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:08.707] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:09.735] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:22:09.765] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:22:09.787] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:22:09.843] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-03 14:22:11.779] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:22:22.319] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-03 14:27:12.128] [sharedprocess] [info] Scanned user extensions: 8
